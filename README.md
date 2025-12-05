@@ -56,7 +56,8 @@ run_uk_analysis
 └── output/
     └── IRF_Plots.png       
 ```
-
+##Output
+![Output Chart](output/Impulse%Response%Functions.png)
 ## Technical Highlights
 
 - Automated lag selection via information criteria comparison
