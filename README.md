@@ -56,6 +56,11 @@ run_uk_analysis
 └── output/
     └── IRF_Plots.png       
 ```
+## Output
+
+**Impulse Response Functions (IRFs) with 68% confidence bands:**
+
+![IRF_Plots](output/IRF_Plots.png)
 
 ## Output
 
