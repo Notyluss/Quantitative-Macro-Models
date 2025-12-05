@@ -56,18 +56,14 @@ run_uk_analysis
 └── output/
     └── IRF_Plots.png       
 ```
+
 ## Output
 
 **Impulse Response Functions (IRFs) with 68% confidence bands:**
 
-![IRF_Plots](output/IRF_Plots.png)
+![Impulse Response Functions](output/Impulse%20Response%20Functions.png)
 
-## Output
-
-Image of Impulse Response Functions (IRFs) with 68% confidence bands:
-
-![IRF_Plots](output/Impulse Response Functions.png)
-
+## Technical Highlights
 
 - Automated lag selection via information criteria comparison
 - Stationarity verification using companion matrix eigenvalues
